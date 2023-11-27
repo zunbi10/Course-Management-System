@@ -14,5 +14,5 @@ public:
     void removeCourse(int courseID);
     Course* findCourse(int courseID);
     float calculateSubtotal() const;
-    float calculateFinalTotal(const Student& student) const; 
+    float calculateFinalTotal(const Student& student) const;  
 };

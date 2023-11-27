@@ -24,7 +24,7 @@ void Bill::removeCourse(int courseID) {
 Course* Bill::findCourse(int courseID) {
     for (auto& course : billCourses) {
         if (course.getID() == courseID) {
-            return &course;
+            return &course; 
         }
     }
     return nullptr;

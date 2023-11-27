@@ -59,7 +59,7 @@ Course* Admin::findCourse(int courseID) {
 }
 
 void Admin::addTeacher(const Teacher& teacher) {
-    teachers.push_back(teacher);
+    teachers.push_back(teacher); 
 }
 
 void Admin::deleteTeacher(int teacherId) {

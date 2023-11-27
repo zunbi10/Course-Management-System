@@ -26,5 +26,5 @@ public:
     void addTeacher(const Teacher& teacher);
     void deleteTeacher(int teacherId);
     void displayTeachers() const;
-    Teacher* findTeacher(int teacherId);
+    Teacher* findTeacher(int teacherId); 
 };
