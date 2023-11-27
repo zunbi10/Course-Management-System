@@ -1,0 +1,6 @@
+StudentID: 22122715
+Name: Thanh Duy
+Address: VLXD Thanh Duy
+Phone: 0931811765
+Majors: Computer Scient
+Grades: IT1203
